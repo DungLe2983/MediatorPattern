@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\MediatorDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13511DAA-8020-4EE6-B517-E5AB9A2146D7}|MediatorDemo\\MediatorDemo.csproj|c:\\users\\lenovo\\source\\repos\\mediatordemo\\mediatordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13511DAA-8020-4EE6-B517-E5AB9A2146D7}|MediatorDemo\\MediatorDemo.csproj|solutionrelative:mediatordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\MediatorDemo\\MediatorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MediatorDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\MediatorDemo\\MediatorDemo\\Program.cs",
+              "RelativeToolTip": "MediatorDemo\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:51:06.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

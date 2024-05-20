@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\bin\Debug\net8.0\MediatorDemo.exe
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\bin\Debug\net8.0\MediatorDemo.deps.json
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\bin\Debug\net8.0\MediatorDemo.runtimeconfig.json
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\bin\Debug\net8.0\MediatorDemo.dll
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\bin\Debug\net8.0\MediatorDemo.pdb
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\obj\Debug\net8.0\MediatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\obj\Debug\net8.0\MediatorDemo.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\obj\Debug\net8.0\MediatorDemo.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\obj\Debug\net8.0\MediatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\obj\Debug\net8.0\MediatorDemo.dll
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\obj\Debug\net8.0\refint\MediatorDemo.dll
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\obj\Debug\net8.0\MediatorDemo.pdb
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\obj\Debug\net8.0\MediatorDemo.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\MediatorDemo\MediatorDemo\obj\Debug\net8.0\ref\MediatorDemo.dll
